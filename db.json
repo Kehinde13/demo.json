@@ -104,7 +104,27 @@
       },
       "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
     }
-  ]
+  ],
+  "NinjaFoods": [
+    {
+       "name": "Curry",
+       "img": "../images/curry.jpg",
+       "desc": "Best curry from india" 
+    },
+
+    {
+        "name": "noodles",
+        "img": "../images/noodles.jpg",
+        "desc": "ishiraku ramen from the leaf, japan"
+    },
+
+    {
+        "name": "Stew",
+        "img": "../images/stew.jpg",
+        "desc": "Everywhere stew from nigeria"
+    }
+
+]
 }
 
 
