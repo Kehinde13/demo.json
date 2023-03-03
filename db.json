@@ -107,21 +107,21 @@
   ],
   "NinjaFoods": [
     {
-       "id": 1
+       "id": "1"
        "name": "Curry",
        "img": "../images/curry.jpg",
        "desc": "Best curry from india" 
     },
 
     {
-        "id": 2
+        "id": "2"
         "name": "Noodles",
         "img": "../images/noodles.jpg",
         "desc": "ishiraku ramen from the leaf, japan"
     },
 
     {
-        "id": 3
+        "id": "3"
         "name": "Stew",
         "img": "../images/stew.jpg",
         "desc": "Everywhere stew from nigeria"
